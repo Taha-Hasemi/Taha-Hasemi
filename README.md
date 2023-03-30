@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taha-Hasemi
-- 👀 Programming is life amk
+- 👀 Programming is life
 
 <!---
 Taha-Hasemi/Taha-Hasemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
