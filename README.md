@@ -3,8 +3,7 @@
     based in Istanbul, Turkey.</samp></h3>
 <p align="center"><br>
   <samp>
-    「 Computer Engineer B. Sc. and now M. Sc. @ <b><a
-        href="https://bilgisayarmuhendislik.istanbulc.edu.tr/en/_">Istanbul University-Cerrahpasa</a></b> 」<br>
+    「 Computer Engineer <b>Allame Tabatabaei Tabriz School</b> 」<br>
   </samp>
 </p>
 <p align="center">
