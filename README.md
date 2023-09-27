@@ -1,3 +1,6 @@
+<img src="https://github-readme-stats.vercel.app/api?username=Taha-Hasemi&show_icons=true&theme=radical"></img>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Hasemi&layout=compact&theme=radical"></img>
 - 👋 Hi, I’m @Taha-Hasemi
 - 👀 Programming is life
 
