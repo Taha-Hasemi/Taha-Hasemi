@@ -16,6 +16,7 @@
   <br>
   <img alt="C#"
     src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white"/>
   <img alt="JavaScript"
     src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="HTML5"
@@ -26,14 +27,17 @@
     src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="jQuery"
     src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
-  <img alt="ASP.Net"
-    src="https://img.shields.io/badge/stylus%20-hotpink.svg?&style=for-the-badge&logo=asp.net&logoColor=white" />
+        <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+        <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+        <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img alt="MsSql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+        <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <br>
    <b>Socials</b>
   <br>
-  <a href="mailto:omansakosk@gmail.com" target="_blank"><img
+  <a href="mailto:mrtahahasemi@gmail.com" target="_blank"><img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/omansak/" target="_blank"><img
+  <!--<a href="https://www.linkedin.com/in/omansak/" target="_blank"><img
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="www.facebook.com/omansak" target="_blank"><img
       src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -42,13 +46,11 @@
   <a href="https://discord.gg/SERVhPp" target="_blank"><img
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/5230705/omansak" target="_blank"><img
-      src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+      src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>-->
   <br>
   <br>
   Code^Game^Sleep > Bermuda Triangle
 </P>
-- 👋 Hi, I’m @Taha-Hasemi
-- 👀 Programming is life
 
 <!---
 Taha-Hasemi/Taha-Hasemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
