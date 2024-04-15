@@ -3,7 +3,7 @@
     based in Tabriz, iran.</samp></h3>
 <p align="center"><br>
   <samp>
-    「 Computer Engineer <b>Allame Tabatabaei Tabriz School</b> 」<br>
+    「 Computer Engineer <b>No school yet</b> 」<br>
   </samp>
 </p>
 <p align="center">
