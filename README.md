@@ -1,9 +1,9 @@
 <h3 align="center"><samp>Hey! I am <b><a rel="nofollow noopener noreferrer" target="_blank"
-        href="#">Taha Hashemi</a></b> <br>I'm a 18 y/o software developer
+        href="#">Taha Hashemi</a></b> <br>I'm a 19 y/o software developer
     based in World.</samp></h3>
 <p align="center"><br>
   <samp>
-    「 Computer Engineer <b>No school yet</b> 」<br>
+    「 Computer Engineer <b>Azad University</b> 」<br>
   </samp>
 </p>
 <p align="center">
